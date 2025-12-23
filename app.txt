@@ -1,0 +1,5 @@
+mia-detector-webapp/
+├── index.html
+├── styles.css
+├── script.js
+└── demo_dataset.csv
